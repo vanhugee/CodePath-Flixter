@@ -1,26 +1,23 @@
-# Project 2 - *Flixter pt1*
+# Project 3 - *Flixter Pt2*
 
 Submitted by: **Huy Nguyen**
 
-**Flixter** is a movie browsing app that shows detail of movies [TODO] 
+**Flixter** is an app that introduces networking ... [TODO] 
 
-Time spent: **6** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] Users are able to see a customized app icon and launch screen
-- [x] Your app should work for any screen size and orientation using AutoLayout constraints
-  - [x] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
-- [x] Displays at least 5 different movies in a table view
-- [x] Can tap into detail view of movie with a full description, backdrop image, and title
+- [x] Implement network call and table view to display a list of movies currently playing (title, description, image)
+- [x] App has a collection view with the same list of movies
+- [x] Uses a tab bar controller to switch between collection view and table view screens
  
 The following **optional** features are implemented:
 
-- [x] Unique UI changes, such as background, font/color changes, etc.
-- [ ] User implements a collection view
-- [ ] User implemenets tab bar controller with at least two screens
+- [ ] Make an additional network call to another end-point.    
+- [ ] Allow users to scroll when context items are off-screen (table view implemention)
 
 The following **additional** features are implemented:
 
@@ -30,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/ondatfH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/gallery/t0jp9kL.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
