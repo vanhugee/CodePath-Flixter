@@ -5,7 +5,7 @@ Flixter
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+
 
 <img src='https://i.imgur.com/4NhTxvk.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
